@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Madhavdua/firstReactApp/precache-manifest.08f24a28957988ddd9df53f65ab4cff5.js"
+  "/Madhavdua/firstReactApp/precache-manifest.a1cbcc69d7acef9119a7b21aa0756a93.js"
 );
 
 workbox.clientsClaim();
