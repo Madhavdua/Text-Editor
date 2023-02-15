@@ -1,15 +1,15 @@
 {
-  "main.css": "/madhavdua/firstReactApp/static/css/main.2c492ab6.chunk.css",
-  "main.js": "/madhavdua/firstReactApp/static/js/main.de86fbdc.chunk.js",
-  "main.js.map": "/madhavdua/firstReactApp/static/js/main.de86fbdc.chunk.js.map",
-  "static/js/1.3c11774c.chunk.js": "/madhavdua/firstReactApp/static/js/1.3c11774c.chunk.js",
-  "static/js/1.3c11774c.chunk.js.map": "/madhavdua/firstReactApp/static/js/1.3c11774c.chunk.js.map",
-  "static/js/2.2b8e7308.chunk.js": "/madhavdua/firstReactApp/static/js/2.2b8e7308.chunk.js",
-  "static/js/2.2b8e7308.chunk.js.map": "/madhavdua/firstReactApp/static/js/2.2b8e7308.chunk.js.map",
-  "runtime~main.js": "/madhavdua/firstReactApp/static/js/runtime~main.be9e6a46.js",
-  "runtime~main.js.map": "/madhavdua/firstReactApp/static/js/runtime~main.be9e6a46.js.map",
-  "static/css/main.2c492ab6.chunk.css.map": "/madhavdua/firstReactApp/static/css/main.2c492ab6.chunk.css.map",
-  "index.html": "/madhavdua/firstReactApp/index.html",
-  "precache-manifest.879595b75cf40c26a2ab95f62028dbb5.js": "/madhavdua/firstReactApp/precache-manifest.879595b75cf40c26a2ab95f62028dbb5.js",
-  "service-worker.js": "/madhavdua/firstReactApp/service-worker.js"
+  "main.css": "/firstReactApp/static/css/main.2c492ab6.chunk.css",
+  "main.js": "/firstReactApp/static/js/main.de86fbdc.chunk.js",
+  "main.js.map": "/firstReactApp/static/js/main.de86fbdc.chunk.js.map",
+  "static/js/1.3c11774c.chunk.js": "/firstReactApp/static/js/1.3c11774c.chunk.js",
+  "static/js/1.3c11774c.chunk.js.map": "/firstReactApp/static/js/1.3c11774c.chunk.js.map",
+  "static/js/2.2b8e7308.chunk.js": "/firstReactApp/static/js/2.2b8e7308.chunk.js",
+  "static/js/2.2b8e7308.chunk.js.map": "/firstReactApp/static/js/2.2b8e7308.chunk.js.map",
+  "runtime~main.js": "/firstReactApp/static/js/runtime~main.a8358b5f.js",
+  "runtime~main.js.map": "/firstReactApp/static/js/runtime~main.a8358b5f.js.map",
+  "static/css/main.2c492ab6.chunk.css.map": "/firstReactApp/static/css/main.2c492ab6.chunk.css.map",
+  "index.html": "/firstReactApp/index.html",
+  "precache-manifest.dd2f5f729b04c6ee7d885c3b6ecacef3.js": "/firstReactApp/precache-manifest.dd2f5f729b04c6ee7d885c3b6ecacef3.js",
+  "service-worker.js": "/firstReactApp/service-worker.js"
 }
